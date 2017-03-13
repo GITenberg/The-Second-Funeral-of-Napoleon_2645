@@ -1,5 +1,8 @@
 _repo: The-Second-Funeral-of-Napoleon_2645
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -13,6 +16,8 @@ creator:
     - http://www.victorianweb.org/authors/wmt/wmtov.html
 description: I. On the disinterment of Napoleon at St. Helena -- II. On the voyage
   from St. Helena to Paris -- III. On the funeral ceremony.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2645#The-Second-Funeral-of-Napoleon
 gutenberg_bookshelf: Napoleonic(Bookshelf)
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
